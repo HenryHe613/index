@@ -8,8 +8,6 @@ export default {
   page2:{
     authorImg:'./src/img/page1.jpg',// 作者头像
     xinhui:'我是南岩，是一个高中生。',// 幸会
-    qiuzhi:'前端开发，利用各种技巧实现交互丰富的界面。',// 求职意向
-    guanyuwo:'起初学习的是java，安卓开发，后来转战到前端开发。我集中利用大学学习时间进一步学习了html5,css3,javaScript和Vue框架等等，自学做Vue有关的Demo'// 关于我
   },
   // page3部分
   page3:[{
