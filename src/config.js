@@ -8,6 +8,8 @@ export default {
   page2:{
     authorImg:'./src/img/page1.jpg',// 作者头像
     xinhui:'我是南岩，是一个高中生。',// 幸会
+    qiuzhi:'暂无哦',// 求职意向
+    guanyuwo:'还在认证读书emmm~'// 关于我
   },
   // page3部分
   page3:[{
